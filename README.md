@@ -7,3 +7,7 @@
 -  and run the program
 
 ## OUTPUT
+- <img src="docs/Screenshot (95).png" />![Uploading Screenshot (95).png…]()
+- <img src="docs/Screenshot (96).png" />
+- <img src="docs/Screenshot (97).png" />
+- <img src="docs/Screenshot (98).png" />
