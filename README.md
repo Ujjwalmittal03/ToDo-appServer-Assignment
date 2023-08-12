@@ -1,4 +1,4 @@
-![Screenshot (97)](https://github.com/Ujjwalmittal03/ToDo-appServer-Assignment/assets/84956325/af88bfce-2014-4240-8bbc-fdbc2be8d3a9)![Screenshot (96)](https://github.com/Ujjwalmittal03/ToDo-appServer-Assignment/assets/84956325/68747de5-2469-4da5-9aff-5c84a13efe7f)﻿# todoServer_assignment
+
  This Is a basic to do list using javascript HTML
 
 ## ✨  Steps to Run 
